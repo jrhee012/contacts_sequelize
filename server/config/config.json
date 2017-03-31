@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "jaehyukrhee",
+    "password": null,
+    "database": "contacts-dev",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jaehyukrhee",
+    "password": null,
+    "database": "contacts-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
